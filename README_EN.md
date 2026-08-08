@@ -37,14 +37,12 @@
   </div>
 </div>
 
-<div align="center" style="margin: 14px auto 0; padding: 10px 14px 12px; max-width: 760px; border: 1px solid #30363d; border-radius: 10px; background: linear-gradient(180deg, #0d1117 0%, #161b22 100%);">
-  <p style="margin: 0 0 8px; font-size: 11px; color: #8b949e; letter-spacing: 1.5px;">Sponsored Advertisement</p>
+<div align="center">
+  <p><small>Sponsored Advertisement</small></p>
   <a href="https://www.zovps.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.zovps.com/themes/web/www/upload/local665d27d1cac16.png" alt="Ciyun Data" width="100%" style="max-width: 620px; border-radius: 6px; display: block; margin: 0 auto;" />
+    <img src="img/ciyun_ad.png" alt="Ciyun Data - Visit Official Website" width="728" />
   </a>
-  <p style="margin: 8px 0 0; font-size: 13px;">
-    <a href="https://www.zovps.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-weight: 600; color: #58a6ff;">Ciyun Data | Visit Official Website →</a>
-  </p>
+  <p><a href="https://www.zovps.com/" target="_blank" rel="noopener noreferrer">Ciyun Data | Visit Official Website →</a></p>
 </div>
 
 ---
