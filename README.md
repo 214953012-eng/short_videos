@@ -525,9 +525,15 @@ https://api.bugpk.com/api/douyin.php?url=https://v.douyin.com/xxxx/
       <td style="border: none; border-bottom: 1px solid #e9ecef; padding: 14px; text-align: center; color: #495057;">支持！</td>
     </tr>
     <tr style="background-color: #ffffff;">
-      <td style="border: none; padding: 14px; text-align: center; font-weight: 500;">29</td>
-      <td style="border: none; padding: 14px; text-align: center;">*1</td>
-      <td style="border: none; padding: 14px; text-align: center; color: #dc3545; font-weight: bold; font-size: 1.1em;">¥18.80</td>
+      <td style="border: none; border-bottom: 1px solid #e9ecef; padding: 14px; text-align: center; font-weight: 500;">29</td>
+      <td style="border: none; border-bottom: 1px solid #e9ecef; padding: 14px; text-align: center;">*1</td>
+      <td style="border: none; border-bottom: 1px solid #e9ecef; padding: 14px; text-align: center; color: #dc3545; font-weight: bold; font-size: 1.1em;">¥18.80</td>
+      <td style="border: none; border-bottom: 1px solid #e9ecef; padding: 14px; text-align: center; color: #495057;">支持！</td>
+    </tr>
+    <tr style="background-color: #f8f9fa;">
+      <td style="border: none; padding: 14px; text-align: center; font-weight: 500;">30</td>
+      <td style="border: none; padding: 14px; text-align: center;">*豐</td>
+      <td style="border: none; padding: 14px; text-align: center; color: #28a745; font-weight: bold; font-size: 1.1em;">¥10.00</td>
       <td style="border: none; padding: 14px; text-align: center; color: #495057;">支持！</td>
     </tr>
 
